@@ -80,11 +80,13 @@ header{
 #header-loupe-img{
     height: 16px;
     width: 16px;
+    cursor: pointer;
 }
 
 #header-menu-img{
     height: 24px;
     width: 24px;
+    cursor: pointer;
 }
 
 /* -------------------------------- */
